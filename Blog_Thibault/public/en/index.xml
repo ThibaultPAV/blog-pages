@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on NeuroFab</title>
+    <link>http://localhost:1313/en/</link>
+    <description>Recent content in Home on NeuroFab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 01 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Key Concepts of Reinforcement Learning: What You Need to Know</title>
+      <link>http://localhost:1313/en/posts/introduction_rl/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/posts/introduction_rl/</guid>
+      
+      <description>🌍 Imagine a world where machines learn to make decisions, adjusting their strategies over time to achieve specific goals. This world is no longer just a vision of the future, but a reality thanks to Reinforcement Learning (RL).
+If you&amp;rsquo;re curious about how this technology works, you&amp;rsquo;re in the right place. In this article, I will explain in a simple and clear manner the essential concepts of RL, an artificial intelligence technique that allows machines to learn independently, without supervision.</description>
+      
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/en/pages/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/pages/about/</guid>
+      
+      <description>👋 Welcome to my blog! My name is Thibault, and if you&amp;rsquo;re here, it&amp;rsquo;s probably because, like me, you&amp;rsquo;re interested in data science and computer science. I&amp;rsquo;m currently in my final year of engineering school, specializing in applied mathematics and modeling—fields that fuel my curiosity and my desire to understand the world around us.
+Why this blog? This blog is a space where I share my personal projects in data science and computer science.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

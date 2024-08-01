@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on NeuroFab</title>
+    <link>http://localhost:1313/en-gb/pages/</link>
+    <description>Recent content in Pages on NeuroFab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language><atom:link href="http://localhost:1313/en-gb/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/en-gb/pages/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en-gb/pages/about/</guid>
+      
+      <description>👋 Welcome to My Blog! My name is Thibault, and if you&amp;rsquo;re here, it&amp;rsquo;s likely because, like me, you&amp;rsquo;re passionate about data science and its countless possibilities. I&amp;rsquo;m currently in my final year of engineering school, specializing in applied mathematics and modeling, fields that fuel my curiosity and desire to understand the world around us.
+Why This Blog? Over the years, computing and data science have become central to my life, and this blog was born out of that passion.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

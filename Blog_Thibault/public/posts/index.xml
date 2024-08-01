@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Article on NeuroFab</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Article on NeuroFab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Thu, 01 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Les Concepts Clés du Reinforcement Learning : Ce Que Vous Devez Savoir</title>
+      <link>http://localhost:1313/posts/introduction_rl/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/introduction_rl/</guid>
+      
+      <description>🌍 Imaginez un monde où les machines apprennent à prendre des décisions, ajustant leurs stratégies au fil du temps pour atteindre des objectifs précis. Ce monde n&amp;rsquo;est plus une simple vision du futur, mais bien une réalité grâce au Reinforcement Learning (RL).
+Si vous êtes curieux de découvrir comment cette technologie fonctionne, vous êtes au bon endroit. Dans cet article, je vais vous expliquer de manière simple et claire les notions essentielles du RL, une technique d&amp;rsquo;intelligence artificielle qui permet aux machines d&amp;rsquo;apprendre par elles-mêmes, sans supervision.</description>
+      
+    </item>
+    
+    <item>
+      <title>Q-learning</title>
+      <link>http://localhost:1313/posts/q_learning/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/q_learning/</guid>
+      
+      <description>blablabla</description>
+      
+    </item>
+    
+  </channel>
+</rss>

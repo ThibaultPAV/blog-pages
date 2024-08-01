@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on NeuroFab</title>
+    <link>http://localhost:1313/en/posts/</link>
+    <description>Recent content in Posts on NeuroFab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 01 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Key Concepts of Reinforcement Learning: What You Need to Know</title>
+      <link>http://localhost:1313/en/posts/introduction_rl/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/posts/introduction_rl/</guid>
+      
+      <description>🌍 Imagine a world where machines learn to make decisions, adjusting their strategies over time to achieve specific goals. This world is no longer just a vision of the future, but a reality thanks to Reinforcement Learning (RL).
+If you&amp;rsquo;re curious about how this technology works, you&amp;rsquo;re in the right place. In this article, I will explain in a simple and clear manner the essential concepts of RL, an artificial intelligence technique that allows machines to learn independently, without supervision.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
